@@ -1,0 +1,1 @@
+<?php /**PATH /home/tonny/Laravel/prog/assignment3/mynetwork/resources/views/home/features.blade.php ENDPATH**/ ?>
